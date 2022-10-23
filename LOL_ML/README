@@ -1,0 +1,12 @@
+# This code is intended to see whether or not the level of champions in League of Legends can be approximated by other game features.
+# The code file down below includes a supervised model that conveys this idea by utilising certain game 
+# festures from data set provided to make predictions on in-game levels.
+
+# LOL_ML.ipynb is the source code file with the supervised model and graphing function included.
+# README (this file) is the introduction and instruction for the source code file.
+
+
+# Instructins:
+#1. Open the project2.ipynb file.
+#2. Run All
+#3. Check the output if needed.
